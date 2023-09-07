@@ -25,3 +25,6 @@ Key Findings from the dataset for proceeding with the machine learning model:
 -  Having a high monthly balance in your account at the end of the month is good for your credit scores.
 -  The credit mix feature tells about the types of credits and loans you have taken.
 
+Steps to run the model:
+- Download the zip file and extract on your system.
+- You will find both dataset file and ipynb file, save them in the same folder before running the code file.
